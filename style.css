@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(136, 121, 222);
+    
+}
+div img{
+    border-radius: 50%;
+    width:15%;
+    margin-top: 2%;
+    align-items: right;
+    
+}
+Body>div{
+    display: flex;
+    text-align: center;
+   
+    
+}
+
+div h1{
+    margin:2% 2%;
+    margin-right: 45%;
+   
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+ footer {background: #161b22; color: #8b949e; text-align: center; padding: 20px;}
+    footer a {color: #58a6ff; margin: 0 10px; text-decoration: none;}
+    footer a:hover {text-decoration: underline;}
